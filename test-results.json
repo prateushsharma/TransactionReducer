@@ -1,0 +1,18 @@
+{
+  "contract": "0x642c3e6ba6193782471598854b3da3d1533c501f",
+  "network": "sepolia",
+  "timestamp": "2025-10-24T01:01:00.785Z",
+  "individualGas": "91296",
+  "batchedGas": "186403",
+  "gasSaved": "-95107",
+  "savingsPercent": "-104",
+  "costSavedETH": "-0.000000095107760856",
+  "costSavedUSD": "-0.0003",
+  "batchTxHash": "0x4a89f942deea070fbce0731582252dd8ea552cc9e006fe30e4aec666b785de72",
+  "blockNumber": "9476671",
+  "individualTxHashes": [
+    "0x058d68876e5664c57dee37c38c47a2edba63f1786bd598168a0a75cb7249f70a",
+    "0xac6332756f706f154479d5257714439fb539126dd2eb89a8e2ae8d084ab5a18e",
+    "0x270046a5e475768062e3277262eaefc59103e57bc0bb16f5b9b078ea0174ecf6"
+  ]
+}
